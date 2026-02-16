@@ -12,4 +12,4 @@ I am Mohamed Fawzei, a motivated web developer specializing in Theme Building an
 ![](https://nirzak-streak-stats.vercel.app/?user=mohamedFawzei&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedFawzei&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
